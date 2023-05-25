@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ConsolaIntroduccion\ConsolaIntroduccion\bin\Debug\ConsolaIntroduccion.exe.config
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ConsolaIntroduccion\ConsolaIntroduccion\bin\Debug\ConsolaIntroduccion.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ConsolaIntroduccion\ConsolaIntroduccion\bin\Debug\ConsolaIntroduccion.pdb
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ConsolaIntroduccion\ConsolaIntroduccion\obj\Debug\ConsolaIntroduccion.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ConsolaIntroduccion\ConsolaIntroduccion\obj\Debug\ConsolaIntroduccion.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ConsolaIntroduccion\ConsolaIntroduccion\obj\Debug\ConsolaIntroduccion.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ConsolaIntroduccion\ConsolaIntroduccion\obj\Debug\ConsolaIntroduccion.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ConsolaIntroduccion\ConsolaIntroduccion\obj\Debug\ConsolaIntroduccion.pdb
