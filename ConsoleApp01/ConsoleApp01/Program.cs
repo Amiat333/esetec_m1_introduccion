@@ -19,7 +19,7 @@ namespace Introduccion
             Console.WriteLine("Introduce el número de personas que van a realizar el pago; ");
             valor2 = Console.ReadLine();
 
-            resultado = Convert.ToDouble(valor1) * 1.0f / Convert.ToDouble(valor2) * 1.0f;
+            resultado = Convert.ToSingle(valor1) / Convert.ToSingle(valor2);
             Console.WriteLine(valor1 + " / " + valor2 + " = " + resultado);
             Console.WriteLine("Toca a pagar la siguiente cantidad por persona: " + resultado);
 

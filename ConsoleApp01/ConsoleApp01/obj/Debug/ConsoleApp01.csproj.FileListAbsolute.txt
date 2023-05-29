@@ -1,0 +1,8 @@
+C:\Users\amiat\Desktop\Proyectos\Repositorios\ConsoleApp01\ConsoleApp01\bin\Debug\ConsoleApp01.exe.config
+C:\Users\amiat\Desktop\Proyectos\Repositorios\ConsoleApp01\ConsoleApp01\bin\Debug\ConsoleApp01.exe
+C:\Users\amiat\Desktop\Proyectos\Repositorios\ConsoleApp01\ConsoleApp01\bin\Debug\ConsoleApp01.pdb
+C:\Users\amiat\Desktop\Proyectos\Repositorios\ConsoleApp01\ConsoleApp01\obj\Debug\ConsoleApp01.csproj.AssemblyReference.cache
+C:\Users\amiat\Desktop\Proyectos\Repositorios\ConsoleApp01\ConsoleApp01\obj\Debug\ConsoleApp01.csproj.SuggestedBindingRedirects.cache
+C:\Users\amiat\Desktop\Proyectos\Repositorios\ConsoleApp01\ConsoleApp01\obj\Debug\ConsoleApp01.csproj.CoreCompileInputs.cache
+C:\Users\amiat\Desktop\Proyectos\Repositorios\ConsoleApp01\ConsoleApp01\obj\Debug\ConsoleApp01.exe
+C:\Users\amiat\Desktop\Proyectos\Repositorios\ConsoleApp01\ConsoleApp01\obj\Debug\ConsoleApp01.pdb
