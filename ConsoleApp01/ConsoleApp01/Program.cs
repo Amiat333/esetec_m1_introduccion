@@ -26,64 +26,26 @@ namespace Introduccion
             Console.WriteLine("Presiona Enter para salir");
             Console.ReadLine();
 
-
             /*
-            Console.WriteLine("Entra el primer número para la suma; ");
+            Console.WriteLine("Introduce el precio total de la cuenta: ");
             valor1 = Console.ReadLine();
 
-            Console.WriteLine("Entra el segundo número para la suma; ");
+            Console.WriteLine("Introduce el número de personas que van a realizar el pago: ");
             valor2 = Console.ReadLine();
 
-            resultado= Convert.ToInt32(valor1) + Convert.ToInt32(valor2);
-            Console.WriteLine(valor1 + " + " + valor2 + " = " + resultado);
-
-            Console.WriteLine("Entra el primer número para la resta; ");
-            valor1 = Console.ReadLine();
-
-            Console.WriteLine("Entra el segundo número para la resta; ");
-            valor2 = Console.ReadLine();
-
-            resultado = Convert.ToInt32(valor1) - Convert.ToInt32(valor2);
-            Console.WriteLine(valor1 + " - " + valor2 + " = " + resultado);
-
-            Console.WriteLine("Entra el primer número para la multiplicación; ");
-            valor1 = Console.ReadLine();
-
-            Console.WriteLine("Entra el segundo número para la multiplicación; ");
-            valor2 = Console.ReadLine();
-
-            resultado = Convert.ToInt32(valor1) * Convert.ToInt32(valor2);
-            Console.WriteLine(valor1 + " * " + valor2 + " = " + resultado);
-
-            Console.WriteLine("Entra el primer número para la división; ");
-            valor1 = Console.ReadLine();
-
-            Console.WriteLine("Entra el segundo número para la división; ");
-            valor2 = Console.ReadLine();
-
-            resultado = Convert.ToInt32(valor1) / Convert.ToInt32(valor2);
-            Console.WriteLine(valor1 + " / " + valor2 + " = " + resultado);
+            if (float.TryParse(valor1, out float precio) && float.TryParse(valor2, out float personas))
+            {
+                resultado = precio / personas;
+                Console.WriteLine(valor1 + " / " + valor2 + " = " + resultado);
+                Console.WriteLine("Toca a pagar la siguiente cantidad por persona: " + resultado);
+            }
+            else
+            {
+                Console.WriteLine("El valor introducido no es válido. Por favor, introduce un número válido.");
+            }
 
             Console.WriteLine("Presiona Enter para salir");
-            Console.ReadLine();
-
-       
-            string nombre;
-            string edad;
-
-            Console.WriteLine("Escribe tu nombre ");
-            nombre= Console.ReadLine();
-
-            Console.WriteLine("Escribe tu edad ");
-            edad = Console.ReadLine();
-
-            Console.WriteLine("Tu nombre es " + nombre);
-
-            Console.WriteLine("Y tu edad es " + edad);
-
-            Console.WriteLine("Presiona Enter para salir");
-            Console.ReadLine();
-            */
+            Console.ReadLine(); */
         }
     }
 }
