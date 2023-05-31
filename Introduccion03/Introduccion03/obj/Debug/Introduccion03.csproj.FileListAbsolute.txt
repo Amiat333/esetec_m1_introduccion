@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\Introduccion03\Introduccion03\bin\Debug\Introduccion03.exe.config
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\Introduccion03\Introduccion03\bin\Debug\Introduccion03.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\Introduccion03\Introduccion03\bin\Debug\Introduccion03.pdb
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\Introduccion03\Introduccion03\obj\Debug\Introduccion03.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\Introduccion03\Introduccion03\obj\Debug\Introduccion03.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\Introduccion03\Introduccion03\obj\Debug\Introduccion03.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\Introduccion03\Introduccion03\obj\Debug\Introduccion03.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\Introduccion03\Introduccion03\obj\Debug\Introduccion03.pdb

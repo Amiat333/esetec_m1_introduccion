@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\buclefor\buclefor\bin\Debug\buclefor.exe.config
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\buclefor\buclefor\bin\Debug\buclefor.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\buclefor\buclefor\bin\Debug\buclefor.pdb
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\buclefor\buclefor\obj\Debug\buclefor.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\buclefor\buclefor\obj\Debug\buclefor.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\buclefor\buclefor\obj\Debug\buclefor.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\buclefor\buclefor\obj\Debug\buclefor.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\buclefor\buclefor\obj\Debug\buclefor.pdb

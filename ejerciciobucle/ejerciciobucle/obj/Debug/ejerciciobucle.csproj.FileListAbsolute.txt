@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ejerciciobucle\ejerciciobucle\bin\Debug\ejerciciobucle.exe.config
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ejerciciobucle\ejerciciobucle\bin\Debug\ejerciciobucle.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ejerciciobucle\ejerciciobucle\bin\Debug\ejerciciobucle.pdb
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ejerciciobucle\ejerciciobucle\obj\Debug\ejerciciobucle.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ejerciciobucle\ejerciciobucle\obj\Debug\ejerciciobucle.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ejerciciobucle\ejerciciobucle\obj\Debug\ejerciciobucle.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ejerciciobucle\ejerciciobucle\obj\Debug\ejerciciobucle.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\ejerciciobucle\ejerciciobucle\obj\Debug\ejerciciobucle.pdb
