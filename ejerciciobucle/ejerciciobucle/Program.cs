@@ -40,7 +40,7 @@ namespace ejerciciobucle
                 Console.WriteLine(i + " x " + tabla + " = " + resultado);
 
             }*/
-
+            /*
             for (int i = 1; i < 11; i++)
             {
                 for (int j = 0; j < 11; j++)
@@ -48,7 +48,22 @@ namespace ejerciciobucle
                     Console.WriteLine(i + " x " + j + " = "  + (j * i));
                 }
 
+            }*/
+
+            
+            
+            for (int i = 0; i < 21; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i + " Par");
+                }
+                else
+                {
+                    Console.WriteLine(i + " Impar");
+                }
             }
+
             Console.ReadLine();
 
         }
