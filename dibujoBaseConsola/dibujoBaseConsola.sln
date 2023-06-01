@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dibujoBaseConsola", "dibujoBaseConsola\dibujoBaseConsola.csproj", "{98515DC6-3FB4-4E27-8852-7B0E8C9ED067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98515DC6-3FB4-4E27-8852-7B0E8C9ED067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98515DC6-3FB4-4E27-8852-7B0E8C9ED067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98515DC6-3FB4-4E27-8852-7B0E8C9ED067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98515DC6-3FB4-4E27-8852-7B0E8C9ED067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CE4C6F-2A2E-483B-9A82-D2591908EDF6}
+	EndGlobalSection
+EndGlobal
