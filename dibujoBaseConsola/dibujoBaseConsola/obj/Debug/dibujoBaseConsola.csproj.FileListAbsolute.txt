@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\dibujoBaseConsola\dibujoBaseConsola\bin\Debug\dibujoBaseConsola.exe.config
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\dibujoBaseConsola\dibujoBaseConsola\bin\Debug\dibujoBaseConsola.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\dibujoBaseConsola\dibujoBaseConsola\bin\Debug\dibujoBaseConsola.pdb
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\dibujoBaseConsola\dibujoBaseConsola\obj\Debug\dibujoBaseConsola.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\dibujoBaseConsola\dibujoBaseConsola\obj\Debug\dibujoBaseConsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\dibujoBaseConsola\dibujoBaseConsola\obj\Debug\dibujoBaseConsola.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\dibujoBaseConsola\dibujoBaseConsola\obj\Debug\dibujoBaseConsola.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\dibujoBaseConsola\dibujoBaseConsola\obj\Debug\dibujoBaseConsola.pdb
