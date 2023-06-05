@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\arrayBasico\arrayBasico\bin\Debug\arrayBasico.exe.config
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\arrayBasico\arrayBasico\bin\Debug\arrayBasico.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\arrayBasico\arrayBasico\bin\Debug\arrayBasico.pdb
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\arrayBasico\arrayBasico\obj\Debug\arrayBasico.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\arrayBasico\arrayBasico\obj\Debug\arrayBasico.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\arrayBasico\arrayBasico\obj\Debug\arrayBasico.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\arrayBasico\arrayBasico\obj\Debug\arrayBasico.exe
+C:\Users\AulaT\Desktop\Ernesto San Luis\codigo\esetec_m1_introduccion\arrayBasico\arrayBasico\obj\Debug\arrayBasico.pdb
